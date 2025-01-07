@@ -5,7 +5,7 @@ export const api = createApi({
   baseQuery: fetchBaseQuery({ 
     baseUrl: "https://yt-api.p.rapidapi.com",
     headers: {
-      "x-rapidapi-key": "32001f2eb2mshf2e31f7940dafbap1695b9jsn202bb9790c54",
+      "x-rapidapi-key": "c11c982eeamsh361b1786d65b00bp1e8e38jsn2cf06757842f",
       "x-rapidapi-host": "yt-api.p.rapidapi.com",
     },
   }),
